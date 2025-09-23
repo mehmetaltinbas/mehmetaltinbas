@@ -11,5 +11,4 @@
 <br />
 <h3>Statistics</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetaltinbas&show_icons=true&locale=en" alt="mehmetaltinbas" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetaltinbas&" alt="mehmetaltinbas" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetaltinbas&show_icons=true&locale=en" alt="mehmetaltinbas" /></p>
