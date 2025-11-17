@@ -3,13 +3,13 @@
 <br />
 <h3>Skills</h3>
 <p><strong>Languages: </strong>JavaScript • TypeScript • C#</p>
-<p>Frontend: HTML • CSS • React.js • Next.js • Redux • Tailwind CSS</p>
-<p>Backend: Node.js • Express.js • NestJS • Next.js (Server Actions & API Routes)</p>
-<p>Databases & ORM: PostgreSQL • MongoDB • Prisma ORM • Mongoose</p>
-<p>Testing: Jest • Supertest</p>
-<p>Tools: Docker • Postman • DBeaver • MongoDB Compass</p>
-<p>Deign & Architecture: Layered Architecture • SOLID Principles • GoF Design Patterns</p>
-<p>DevOps: Git • Github Actions • CI/CD</p>
+<p><strong>Frontend: </strong>HTML • CSS • React.js • Next.js • Redux • Tailwind CSS</p>
+<p><strong>Backend: </strong>Node.js • Express.js • NestJS • Next.js (Server Actions & API Routes)</p>
+<p><strong>Databases & ORM: </strong>PostgreSQL • MongoDB • Prisma ORM • Mongoose</p>
+<p><strong>Testing: </strong>Jest • Supertest</p>
+<p><strong>Tools: </strong>Docker • Postman • DBeaver • MongoDB Compass</p>
+<p><strong>Deign & Architecture: </strong>Layered Architecture • SOLID Principles • GoF Design Patterns</p>
+<p><strong>DevOps: </strong>Git • Github Actions • CI/CD</p>
 <br />
 <h3>Statistics</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetaltinbas&show_icons=true&locale=en" alt="mehmetaltinbas" /></p>
