@@ -2,7 +2,7 @@
 <h2>Full-Stack JavaScript Developer | Node.js Specialist</h2>
 <br />
 <h3>Skills</h3>
-<p>Languages: JavaScript • TypeScript • C#</p>
+<p><strong>Languages: </strong>JavaScript • TypeScript • C#</p>
 <p>Frontend: HTML • CSS • React.js • Next.js • Redux • Tailwind CSS</p>
 <p>Backend: Node.js • Express.js • NestJS • Next.js (Server Actions & API Routes)</p>
 <p>Databases & ORM: PostgreSQL • MongoDB • Prisma ORM • Mongoose</p>
