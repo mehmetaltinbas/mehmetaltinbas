@@ -9,7 +9,7 @@
 <p>Testing: Jest • Supertest</p>
 <p>Tools: Docker • Postman • DBeaver • MongoDB Compass</p>
 <p>Deign & Architecture: Layered Architecture • SOLID Principles • GoF Design Patterns</p>
-<p>DevOps: Git • Github Actinos • CI/CD</p>
+<p>DevOps: Git • Github Actions • CI/CD</p>
 <br />
 <h3>Statistics</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetaltinbas&show_icons=true&locale=en" alt="mehmetaltinbas" /></p>
