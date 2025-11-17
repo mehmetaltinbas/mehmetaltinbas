@@ -2,12 +2,14 @@
 <h2>Full-Stack JavaScript Developer | Node.js Specialist</h2>
 <br />
 <h3>Skills</h3>
-<p>Languages: JavaScript • TypeScript</p>
-<p>Frontend: HTML • CSS • React.js • Tailwind CSS</p>
-<p>Backend: Node.js • Express.js • NestJS</p>
+<p>Languages: JavaScript • TypeScript • C#</p>
+<p>Frontend: HTML • CSS • React.js • Next.js • Redux • Tailwind CSS</p>
+<p>Backend: Node.js • Express.js • NestJS • Next.js (Server Actions & API Routes)</p>
+<p>Databases & ORM: PostgreSQL • MongoDB • Prisma ORM • Mongoose</p>
 <p>Testing: Jest • Supertest</p>
-<p>Databases: PostgreSQL • MongoDB</p>
-<p>Database Modeling: Prisma • Mongoose</p>
+<p>Tools: Docker • Postman • DBeaver • MongoDB Compass</p>
+<p>Deign & Architecture: Layered Architecture • SOLID Principles • GoF Design Patterns</p>
+<p>DevOps: Git • Github Actinos • CI/CD</p>
 <br />
 <h3>Statistics</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetaltinbas&show_icons=true&locale=en" alt="mehmetaltinbas" /></p>
