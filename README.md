@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Mehmet Altınbaş</h1>
-<h2>Full-Stack JavaScript Developer | Node.js Specialist</h2>
+<h2>Full-Stack TypeScript Developer</h2>
 <br />
 <h3>Skills</h3>
 <p><strong>Languages: </strong>JavaScript • TypeScript • C#</p>
