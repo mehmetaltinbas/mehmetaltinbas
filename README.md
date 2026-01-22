@@ -8,7 +8,7 @@
 <p><strong>Database: </strong>PostgreSQL • MongoDB</p>
 <p><strong>ORM/ODM: </strong>Prisma • Mongoose</p>
 <p><strong>Test: </strong>Jest • Supertest</p>
-<p><strong>Architecture & Design: </strong>Layered Architecture • SOLID Principles • GoF Design Patterns</p>
+<p><strong>Architecture & Design: </strong>Layered Architecture • SOLID Principles • Software Design Patterns</p>
 <p><strong>DevOps: </strong>Git • GitHub • GitHub Actions • CI/CD • Docker • Nginx • VPS Management • Vercel • Railway • Render</p>
 <p><strong>Development Tools: </strong>Postman • DBeaver • MongoDB Compass</p>
 <br />
