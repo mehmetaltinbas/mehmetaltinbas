@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Mehmet Altınbaş</h1>
-<h2>Full-Stack TypeScript Developer</h2>
+<h2>TypeScript Developer</h2>
+I’m a backend-focused full-stack software engineer specializing in TypeScript. I architect modular, scalable, maintainable codebases that adapt seamlessly to future features and changes by applying proven design principles and patterns.
 <br />
 <h3>Skills</h3>
 <p><strong>Languages: </strong>JavaScript • TypeScript • C#</p>
