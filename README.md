@@ -3,7 +3,7 @@
 <p>I’m a backend-focused full-stack software engineer specializing in TypeScript. I architect modular, scalable, maintainable codebases that adapt seamlessly to future features and changes by applying proven design principles and patterns.</p>
 <br />
 <h3>Skills</h3>
-<p><strong>Languages: </strong>JavaScript • TypeScript • Java • C#</p>
+<p><strong>Languages: </strong>JavaScript • TypeScript • Java</p>
 <p><strong>Frontend: </strong>HTML • CSS • React.js • Next.js • Redux • Tailwind CSS</p>
 <p><strong>Backend: </strong>Node.js • Express.js • NestJS • Next.js • RESTful API • WebSocket</p>
 <p><strong>Database: </strong>PostgreSQL • MongoDB</p>
