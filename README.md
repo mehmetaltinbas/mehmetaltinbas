@@ -4,7 +4,7 @@
 <br />
 <h3>Skills</h3>
 <p><strong>Languages: </strong>JavaScript • TypeScript • Java • Python</p>
-<p><strong>AI & Computer Vision: </strong>Object Detection • YOLO • Deep Learning • Roboflow • Gemini API • OpenAI API</p>
+<p><strong>AI & Computer Vision: </strong>Claude API • Gemini API • OpenAI API • Object Detection • YOLO • Deep Learning • Roboflow</p>
 <p><strong>Frontend: </strong>HTML • CSS • React.js • Next.js • Redux • Tailwind CSS</p>
 <p><strong>Backend: </strong>Node.js • Express.js • NestJS • FastAPI • Next.js • RESTful API • WebSocket</p>
 <p><strong>Database: </strong>PostgreSQL • Prisma • MongoDB • Mongoose</p>
